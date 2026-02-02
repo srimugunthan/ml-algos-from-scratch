@@ -45,4 +45,4 @@ implementation of common ML algos to understand
 - LSTM
 - CNN
 - Quantisation aware training (_/)
-- Finetuning
+- LORA/QLora Finetuning (_/)
