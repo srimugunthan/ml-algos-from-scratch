@@ -7,8 +7,8 @@ implementation of common ML algos to understand
 - L1 and L2 regularisation
 
 ## Dimensionality reduction
-- t-SNE
-- PCA
+- t-SNE (_/)
+- PCA (_/)
 
 ## Classification
 - Decision trees
@@ -36,10 +36,12 @@ implementation of common ML algos to understand
 - SHAP
 
 ## Anamoly detection
-- Isolation forest
+- Isolation forest (_/)
 
 ## Deep learning
 - Backpropagating neural net
 - RNN
 - LSTM
 - CNN
+- Quantisation aware training (_/)
+- Finetuning
