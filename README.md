@@ -44,5 +44,6 @@ implementation of common ML algos to understand
 - RNN
 - LSTM
 - CNN
+- Attention and transformers (_/)
 - Quantisation aware training (_/)
 - LORA/QLora Finetuning (_/)
