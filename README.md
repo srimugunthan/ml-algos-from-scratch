@@ -33,7 +33,8 @@ implementation of common ML algos to understand
 - GMM
 
 ## Explainability
-- SHAP
+- SHAP (_/)
+- Permutation feature importance (_/)
 
 ## Anamoly detection
 - Isolation forest (_/)
