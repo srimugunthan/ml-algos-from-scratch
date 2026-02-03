@@ -41,9 +41,9 @@ implementation of common ML algos to understand
 
 ## Deep learning
 - Backpropagating neural net (_/)
-- RNN
-- LSTM
-- CNN
+- RNN (_/)
+- LSTM (_/)
+- CNN (_/)
 - Attention and transformers (_/)
 - Quantisation aware training (_/)
 - LORA/QLora Finetuning (_/)
