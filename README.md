@@ -40,7 +40,7 @@ implementation of common ML algos to understand
 - Isolation forest (_/)
 
 ## Deep learning
-- Backpropagating neural net
+- Backpropagating neural net (_/)
 - RNN
 - LSTM
 - CNN
