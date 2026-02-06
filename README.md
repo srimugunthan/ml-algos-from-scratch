@@ -3,19 +3,19 @@ implementation of common ML algos to understand
 
 ## Regression
 - OLS
-- Gradient descent
-- L1 and L2 regularisation
+- Gradient descent (_/)
+- L1 and L2 regularisation (_/)
 
 ## Dimensionality reduction
 - t-SNE (_/)
 - PCA (_/)
 
 ## Classification
-- Decision trees
-- Random forest
-- Gradient boosting
-- Xgboost
-- Logistic regression
+- Decision trees (_/)
+- Random forest (_/)
+- Gradient boosting (_/)
+- Xgboost (_/)
+- Logistic regression (_/)
 - K-nearest neighbours
 - Naive bayes
 - Linear discriminant analysis
@@ -28,9 +28,9 @@ implementation of common ML algos to understand
 - SVD
 
 ## Unsupervised
-- k-means Clustering
-- DBScan
-- GMM
+- k-means Clustering (_/)
+- DBScan (_/)
+- GMM (_/)
 
 ## Explainability
 - SHAP (_/)
