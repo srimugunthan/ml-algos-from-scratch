@@ -31,6 +31,7 @@ implementation of common ML algos to understand
 - k-means Clustering (_/)
 - DBScan (_/)
 - GMM (_/)
+- Hierarchical clustering
 
 ## Explainability
 - SHAP (_/)
