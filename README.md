@@ -24,7 +24,7 @@ Implementation of common ML algorithms to understand them.
 12. Naive Bayes
 13. Linear discriminant analysis
 14. Classification chains
-15. One vs All
+15. One vs All, one-class SVM for anamoly detection
 
 ## Recommenders/Ranking
 
