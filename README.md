@@ -12,54 +12,55 @@ Implementation of common ML algorithms to understand them.
 
 4. t-SNE (_/)
 5. PCA (_/)
+6. UMAP (Uniform Manifold Approximation and Projection)
 
 ## Classification
 
-6. Decision trees (_/)
-7. Random forest (_/)
-8. Gradient boosting (_/)
-9. XGBoost (_/)
-10. Logistic regression (_/)
-11. K-nearest neighbours
-12. Naive Bayes
-13. Linear discriminant analysis
-14. Classification chains
-15. One vs All, one-class SVM for anamoly detection
+7. Decision trees (_/)
+8. Random forest (_/)
+9. Gradient boosting (_/)
+10. XGBoost (_/)
+11. Logistic regression (_/)
+12. K-nearest neighbours
+13. Naive Bayes
+14. Linear discriminant analysis
+15. Classification chains
+16. One vs All, one-class SVM for anamoly detection
 
 ## Recommenders/Ranking
 
-16. ALS matrix factorization
-17. SVD
+17. ALS matrix factorization
+18. SVD
 
 ## Unsupervised
 
-18. k-means Clustering (_/)
-19. DBScan (_/)
-20. GMM (_/)
-21. Hierarchical clustering
+19. k-means Clustering (_/)
+20. DBScan (_/)
+21. GMM (_/)
+22. Hierarchical clustering
 
 ## Explainability
 
-22. SHAP (_/)
-23. Permutation feature importance (_/)
+23. SHAP (_/)
+24. Permutation feature importance (_/)
 
 ## Anomaly Detection
 
-24. Isolation forest (_/)
+25. Isolation forest (_/)
 
 ## Deep Learning
 
-25. Backpropagating neural net (_/)
-26. RNN (_/)
-27. LSTM (_/)
-28. CNN (_/)
-29. Attention and transformers (_/)
+26. Backpropagating neural net (_/)
+27. RNN (_/)
+28. LSTM (_/)
+29. CNN (_/)
 30. Autoencoders
 31. GAN
 
 ## GenAI
-
-32. Quantisation aware training (_/)
-33. LORA/QLora Finetuning (_/)
-34. Mixture of experts
-35. Diffusion model
+32. Attention and transformers (_/)
+33. Quantisation aware training (_/)
+34. LORA/QLora Finetuning (_/)
+35. Mixture of experts
+36. Diffusion model
+37. GPT2
